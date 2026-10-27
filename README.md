@@ -13,7 +13,7 @@
  
 <table>
   <tr>
-    <td align="center" width="33%" valign="top">
+    <td align="center" width="25%" valign="top">
       <a href="https://last-exit-duval.vercel.app/">
         <img src="assets/last-exit-duval.png" width="100%" alt="Last Exit: Duval, a cinematic 3D driving simulator">
       </a>
@@ -23,7 +23,7 @@
       <a href="https://last-exit-duval.vercel.app/">Play</a> &nbsp;·&nbsp;
       <a href="https://github.com/ShirleyYaw/LastExit-Duval-3DDriverSim">GitHub</a>
     </td>
-    <td align="center" width="33%" valign="top">
+    <td align="center" width="25%" valign="top">
       <a href="https://pubmedchatbot.streamlit.app/">
         <img src="assets/pubmed-rag-chatbot.png" width="100%" alt="PubMed RAG chatbot">
       </a>
@@ -33,7 +33,7 @@
       <a href="https://pubmedchatbot.streamlit.app/">Try </a> &nbsp;·&nbsp;
       <a href="https://github.com/ShirleyYaw/09_rag_qa_pubmed">GitHub</a>
     </td>
-    <td align="center" width="33%" valign="top">
+    <td align="center" width="25%" valign="top">
       <a href="https://codehs.com/sandbox/shirleyyaw/console-games/run">
         <img src="assets/programming-club-games.png" width="100%" alt="Programming Club console games">
       </a>
@@ -41,6 +41,16 @@
       <p>A collection of console games from Programming Club, exploring game logic, user input, and programming fundamentals.</p>
       <p><sub><code>Python</code> · <code>CodeHS</code></sub></p>
       <a href="https://codehs.com/sandbox/shirleyyaw/console-games/run">Play</a>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <a href="https://last-exit-duval.vercel.app/">
+        <img src="assets/last-exit-duval.png" width="100%" alt="Last Exit: Duval, a cinematic 3D driving simulator">
+      </a>
+      <h3>Shirley's Room</h3>
+      <p>A cinematic 3D driving simulator that teaches defensive driving through an immersive, interactive experience.</p>
+      <p><sub><code>HTML</code> · <code>Three.js</code> · <code>CSS</code></sub></p>
+      <a href="https://shirleyyaw.github.io/">Visit my portfolio!</a> &nbsp;·&nbsp;
+      <a href="https://github.com/ShirleyYaw/shirleyyaw.github.io">GitHub</a>
     </td>
   </tr>
 </table>
