@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Hi, I'm Shirley ♡ </h1>
+<h1> Hi, I'm Shirley! </h1>
 
 **I turn random ideas into real projects and love experimenting with new technologies.**
  
