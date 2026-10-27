@@ -30,7 +30,7 @@
       <h3>PubMed Chatbot</h3>
       <p>A Streamlit RAG chatbot that retrieves PubMed literature to ground AI responses in scientific research. Explores TF-IDF and MiniLM retrieval.</p>
       <p><sub><code>Python</code> · <code>Streamlit</code> · <code>RAG</code> · <code>NLP</code></sub></p>
-      <a href="https://pubmedchatbot.streamlit.app/">Try </a> &nbsp;·&nbsp;
+      <a href="https://pubmedchatbot.streamlit.app/">Try chatting :) </a> &nbsp;·&nbsp;
       <a href="https://github.com/ShirleyYaw/09_rag_qa_pubmed">GitHub</a>
     </td>
     <td align="center" width="25%" valign="top">
