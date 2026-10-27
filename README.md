@@ -44,7 +44,7 @@
     </td>
     <td align="center" width="25%" valign="top">
       <a href="https://github.com/ShirleyYaw/shirleyyaw.github.io">
-        <img src="assets/Screenshot 2026-10-27 174519.png" width="100%" alt="Last Exit: Duval, a cinematic 3D driving simulator">
+        <img src="assets/Screenshot 2026-10-27 174715.png" width="100%" alt="Last Exit: Duval, a cinematic 3D driving simulator">
       </a>
       <h3>Shirley's Room</h3>
       <p>A cinematic 3D driving simulator that teaches defensive driving through an immersive, interactive experience.</p>
