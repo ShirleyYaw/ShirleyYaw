@@ -20,7 +20,7 @@
       <h3>Last Exit: Duval</h3>
       <p>A cinematic 3D driving simulator that teaches defensive driving through an immersive, interactive experience.</p>
       <p><sub><code>React</code> · <code>Three.js</code> · <code>Vite</code></sub></p>
-      <a href="https://last-exit-duval.vercel.app/">▶ Play</a> &nbsp;·&nbsp;
+      <a href="https://last-exit-duval.vercel.app/">Play</a> &nbsp;·&nbsp;
       <a href="https://github.com/ShirleyYaw/LastExit-Duval-3DDriverSim">GitHub</a>
     </td>
     <td align="center" width="33%" valign="top">
@@ -30,7 +30,7 @@
       <h3>PubMed Chatbot</h3>
       <p>A Streamlit RAG chatbot that retrieves PubMed literature to ground AI responses in scientific research. Explores TF-IDF and MiniLM retrieval.</p>
       <p><sub><code>Python</code> · <code>Streamlit</code> · <code>RAG</code> · <code>NLP</code></sub></p>
-      <a href="https://pubmedchatbot.streamlit.app/">▶ Try </a> &nbsp;·&nbsp;
+      <a href="https://pubmedchatbot.streamlit.app/">Try </a> &nbsp;·&nbsp;
       <a href="https://github.com/ShirleyYaw/09_rag_qa_pubmed">GitHub</a>
     </td>
     <td align="center" width="33%" valign="top">
@@ -40,7 +40,7 @@
       <h3>Python Console Games</h3>
       <p>A collection of console games from Programming Club, exploring game logic, user input, and programming fundamentals.</p>
       <p><sub><code>Python</code> · <code>CodeHS</code></sub></p>
-      <a href="https://codehs.com/sandbox/shirleyyaw/console-games/run">▶ Play</a>
+      <a href="https://codehs.com/sandbox/shirleyyaw/console-games/run">Play</a>
     </td>
   </tr>
 </table>
